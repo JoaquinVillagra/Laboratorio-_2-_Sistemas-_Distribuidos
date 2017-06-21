@@ -1,8 +1,9 @@
-* Laboratorio 2 SD - Primer semestre 2017
-
+Laboratorio 2 SD - Primer semestre 2017
 =============================================
-* Profesor Laboratorio: Maximiliano Pérez.
-* Alumno: Joaquín Ignacio Villagra Pacheco
+
+Profesor Laboratorio: Maximiliano Pérez.
+---------------------------------------------------
+Alumno: Joaquín Ignacio Villagra Pacheco
 ---------------------------------------------------
 
 El presente laboratorio es una simulación de comunicación para una red con topología anillo, bajo arquitectura distribuida P2P.
